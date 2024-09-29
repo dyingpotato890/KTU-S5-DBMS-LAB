@@ -1,0 +1,9 @@
+CREATE OR REPLACE FUNCTION addNum(num1 NUMBER, num2 NUMBER)
+RETURN NUMBER
+IS 
+	result NUMBER;
+BEGIN
+	result := num1 + num2;
+	RETURN result;
+END;
+/
