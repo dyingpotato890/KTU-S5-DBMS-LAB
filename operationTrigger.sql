@@ -1,9 +1,0 @@
-CREATE OR REPLACE TRIGGER operationTrigger
-BEFORE INSERT OR UPDATE OR DELETE
-ON STUDENT
-FOR EACH ROW
-BEGIN
-	RAISE_APPLICATION_ERROR(-20001, 'Cannot perform this operation on this table');
-END;
-/
-
