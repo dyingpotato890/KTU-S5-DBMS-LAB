@@ -50,6 +50,7 @@ The DBMS lab course focuses on SQL queries, database design, and management usin
    - [Operations Trigger](https://github.com/dyingpotato890/KTU-S5-DBMS-LAB/blob/main/Trigger/operationTrigger.sql)
   
 7. **Exceptions**
+   - [Exception Handling](https://github.com/dyingpotato890/KTU-S5-DBMS-LAB/blob/main/Exceptions/exceptions.sql)
   
 ## Usage
 
